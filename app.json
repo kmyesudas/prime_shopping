@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "primeShopping",
-    "slug": "primeShopping",
+    "slug": "prime-shopping",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc530d60-3961-4f92-8365-aa1f8d104e32"
+      }
+    },
+    "owner": "primeshopping"
   }
 }
